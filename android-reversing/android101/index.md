@@ -87,7 +87,7 @@ $ d8 Foo.class
 $ dexdump -d classes.dex
 ```
 
-```java
+{% highlight java %}
 Class #0            -
   Class descriptor  : 'LFoo;'
   ...
@@ -122,7 +122,7 @@ Class #0            -
 00015c: 7110 0100 0000                         |0002: invoke-static {v0}, LFoo;.example:(I)I // method@0001
 000162: 0e00                                   |0005: return-void
 ...
-```
+{% highlight %}
 
 At the `Dalvik bytecode` (`Dex Code`) stage, we still have architecture agnostic instructions, but they differ from the `Java bytecode` , `mul-int/lit8` single instruction is used instead of several ones from the previous bytecode. We can say that `Dalvik bytecode` is an optimized version of `Java bytecode`.
 
