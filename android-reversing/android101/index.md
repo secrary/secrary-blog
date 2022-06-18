@@ -190,4 +190,4 @@ We have a similar concept in `ART`, but in this case, `.dex` files are AOT-compi
 
 ---
 
-[cd ../Android Internals for Reverse Engineers](../../android-reversing/)
+[cd ../Android Internals for Reverse Engineers](https://secrary.com/AndroidReversing)
