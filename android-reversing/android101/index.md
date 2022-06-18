@@ -187,3 +187,7 @@ Some versions of Android also may get profiles from the cloud during downloading
 In `Dalvik VM` we have `.odex` files which contain optimized, device-specific bytecode instructions to get better interpreter performance, they are not portable even in different versions of `Dalvik VM`. The file is generated on a device by the `dexopt` tool and is saved under `$ANDROID_DATA/data/dalvik-cache` directory.
 
 We have a similar concept in `ART`, but in this case, `.dex` files are AOT-compiled to binary code via the `dex2oat` tool. The main difference is that `dexopt` generates optimized bytecode, but `dex2oat` generates ELF binary file.
+
+---
+
+[cd ../Android Internals for Reverse Engineers](../../android-reversing/android101/)
