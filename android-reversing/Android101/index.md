@@ -4,7 +4,6 @@ title: "Android 101"
 description: "Introduction"
 keywords: "android, dalvik, reverse engineering"
 ---
-# Android 101
 
 ## **Introduction**
 
