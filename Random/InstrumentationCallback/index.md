@@ -1,5 +1,5 @@
 ---
-layout: rand_post
+layout: post
 title: "Hooking via InstrumentationCallback"
 ---
 

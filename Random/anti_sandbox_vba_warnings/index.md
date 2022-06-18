@@ -1,5 +1,5 @@
 ---
-layout: rand_post
+layout: post
 title: "Simple But Effective Anti-Sandbox Trick"
 ---
 

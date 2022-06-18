@@ -1,5 +1,5 @@
 ---
-layout: rand_post
+layout: post
 title: "Unexported Windows kernel functions/structures finding method"
 ---
 

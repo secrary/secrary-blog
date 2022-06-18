@@ -1,5 +1,5 @@
 ---
-layout: rand_post
+layout: post
 title: "Make Your Dynamic Module Unfreeable (Anti-FreeLibrary)"
 ---
 

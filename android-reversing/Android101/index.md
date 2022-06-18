@@ -1,8 +1,14 @@
+---
+layout: post
+title: "Android 101"
+description: "Introduction"
+keywords: "android, dalvik, reverse engineering"
+---
 # Android 101
 
-## Introduction   
+## **Introduction**
 
-Let’s start our journey from the architecture of the Android operating system and its internals. This chapter covers the minimal information we need to know to feel comfortable working on topics covered in the following sections.   
+Let’s start our journey from the architecture of the Android operating system and its internals. This chapter covers the minimal information we need to know to feel comfortable working on topics covered in the following sections.
 
 The [kernel](https://source.android.com/devices/architecture/kernel) used in Android is based on Linux, but with some significant additions, including [Low Memory Killer](https://source.android.com/devices/tech/perf/lmkd), wake locks, the Binder IPC driver, etc.
 
@@ -14,7 +20,7 @@ When we write an Android Application in Java or Kotlin before execution, it is c
 
 ### Dalvik bytecode - Dex Code
 
-Java source code, which is usually written by a developer, is compiled into `Java` bytecode (`.class` file) via `javac` compiler,  after that, a `Dex compiler` such as `dx` or `d8` is used to convert it to `Dalvik bytecode` (`.dex` file), the file is called `Dalvik EXecutable(.DEX)`. 
+Java source code, which is usually written by a developer, is compiled into `Java` bytecode (`.class` file) via `javac` compiler,  after that, a `Dex compiler` such as `dx` or `d8` is used to convert it to `Dalvik bytecode` (`.dex` file), the file is called `Dalvik EXecutable(.DEX)`.
 
 ![javac-dx-diagram.svg](./img/javac-dx-diagram.svg)
 

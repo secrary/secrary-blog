@@ -1,5 +1,5 @@
 ---
-layout: Crackpost
+layout: post
 title: "KeyMe by BadSector/k23"
 ---
 

@@ -13,7 +13,7 @@ disqus_shortname  : ""
 postshare_enabled : false
 
 # Build settings
-permalink   : /:year/:title/
+permalink   : /:title/
 markdown    : kramdown
 highlighter : rouge
 
@@ -27,7 +27,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "@_qaz_qaz"
 
 plugins:
   - jekyll-sitemap

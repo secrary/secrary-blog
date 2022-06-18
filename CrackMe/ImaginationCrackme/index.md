@@ -1,5 +1,5 @@
 ---
-layout: Crackpost
+layout: post
 title: "Imagination by kratorius"
 ---
 

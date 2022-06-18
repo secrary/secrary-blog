@@ -1,5 +1,5 @@
 ---
-layout: rand_post
+layout: post
 title: "Debugging Windows Services For Malware Analysis / Reverse Engineering"
 ---
 

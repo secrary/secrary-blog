@@ -1,5 +1,5 @@
 ---
-layout: Crackpost
+layout: post
 title: "Malwarebytes CrackMe 2 by hasherazade"
 ---
 
