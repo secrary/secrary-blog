@@ -5,6 +5,14 @@ description: "Introduction"
 keywords: "android, dalvik, reverse engineering"
 ---
 
+- [**Introduction**](#introduction)
+- [**Runtime Environment on Android**](#runtime-environment-on-android)
+  - [Dalvik bytecode - Dex Code](#dalvik-bytecode---dex-code)
+  - [Dalvik VM and ART](#dalvik-vm-and-art)
+  - [Dalvik and ART Optimization](#dalvik-and-art-optimization)
+
+---
+
 ## **Introduction**
 
 Let’s start our journey from the architecture of the [Android operating system](<https://en.wikipedia.org/wiki/Android_(operating_system)>) and its internals. This chapter covers the minimal information we need to know to feel comfortable working on topics covered in the following sections.
