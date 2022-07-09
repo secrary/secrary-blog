@@ -211,3 +211,5 @@ public class MyApp extends Application {
 ```
 
 ---
+
+[cd ../Android Internals for Reverse Engineers](https://secrary.com/android-reversing)
