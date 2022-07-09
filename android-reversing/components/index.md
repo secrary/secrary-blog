@@ -12,7 +12,7 @@ keywords: "android, dalvik, reverse engineering, activity, Broadcast Receivers"
   - [Activities](#activities)
   - [Services](#services)
   - [Broadcast Receivers](#broadcast-receivers)
-  - [**Content Providers**](#content-providers)
+  - [Content Providers](#content-providers)
   - [Application Element](#application-element)
 
 ---
@@ -170,7 +170,7 @@ public void onReceive(Context context, Intent intent)
 }
 ```
 
-### **Content Providers**
+### Content Providers
 
 Content Providers create an interface to access shared data. For example, [Contacts provider](https://developer.android.com/guide/topics/providers/contacts-provider) is a good example for such functionality. Much like other components, a custom content provider can be declared from the manifest file. The component is not essential for us, but if you wish to learn more about it, you can read [Content provider basics](https://developer.android.com/guide/topics/providers/content-provider-basics) page.
 
